@@ -6,13 +6,15 @@
   <b>⚙️ components</b>
 </h2>
 
-- **Shell**: zsh
-- **Terminal**: Foot
-- **Application Launcher**: Rofi
+- **OS**: Arch
+- **Bootloader**: REFInd
 - **Window Manager**: Hyprland
+- **Application Launcher**: Rofi
 - **Notification Daemon**: Mako
 - **Display Manager**: Ly
-- **Bootloader**: REFInd
+- **Terminal**: Foot
+- **Shell**: zsh
+
 
 ![Screenshot](../assets/screenshot.png)
 
