@@ -1,4 +1,7 @@
-| **💎 Archinull Build 💎** |
+<p align="center">
+  <b>💎 Archinull Build 💎</b>
+</p>
+
 
 
 A set of dotfiles and scripts for configuring a personalized Arch Linux environment with Hyprland. This setup includes:
