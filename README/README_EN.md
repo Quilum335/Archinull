@@ -1,18 +1,32 @@
-# Hyprland Dotfiles (English)
+# Hyprland Dotfiles
 
-[Read this in Russian](README_RU.md)
-
-This repository provides configuration files and setup scripts for Arch Linux with:
+A set of dotfiles and scripts for configuring a personalized Arch Linux environment with Hyprland. This setup includes:
 - **Shell**: zsh
 - **Terminal**: Foot
+- **Application Launcher**: Rofi
 - **Window Manager**: Hyprland
 - **Notification Daemon**: Mako
-- **App Launcher**: Rofi
 - **Display Manager**: Ly
 - **Bootloader**: REFInd
 
-## Installation
+![Screenshot](../assets/screenshot.png)
+
+---
+
+## 📂 Directory Overview
+
+| Directory/File  | Description                                    |
+|------------------|------------------------------------------------|
+| `README/`        | Multilingual README files (EN and RU).         |
+| `install.py`     | Installation script for automatic setup.       |
+| `.config/`       | Configuration files for Hyprland, Foot, etc.   |
+| `refind/`        | REFInd theme and configuration files.          |
+
+---
+
+## 🔧 Installation
+
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/hyprland-dotfiles.git
-   cd hyprland-dotfiles
+   git clone https://github.com/Quilum335/Archinull.git
+   cd Archinull
