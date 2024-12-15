@@ -1,7 +1,9 @@
   # **💎 Archinull Build 💎**
-<center>
+  
+<div align="center">
     Это центрированный текст.
-</center>
+</div>
+
 
 A set of dotfiles and scripts for configuring a personalized Arch Linux environment with Hyprland. This setup includes:
 - **Shell**: zsh
