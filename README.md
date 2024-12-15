@@ -2,10 +2,8 @@
   <b>💎 Archinull Build 💎</b>
 </h1>
 
-
-
 <h2 align="left">
-  <b>⚙️ components ⚙️</b>
+  <b>⚙️ components</b>
 </h2>
 
 - **Shell**: zsh
