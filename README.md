@@ -1,7 +1,5 @@
-  # **💎 Archinull Build 💎**
-  
-<div align="center">
-    Это центрированный текст.
+  <div align="center">
+    # **💎 Archinull Build 💎**
 </div>
 
 
