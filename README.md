@@ -1,4 +1,7 @@
-  # **Hyprland Dotfiles**
+  # **💎 Archinull Build 💎**
+<center>
+    Это центрированный текст.
+</center>
 
 A set of dotfiles and scripts for configuring a personalized Arch Linux environment with Hyprland. This setup includes:
 - **Shell**: zsh
