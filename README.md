@@ -1,14 +1,20 @@
 # Quefire Build 
 
-- Shell - Zsh
-- Terminal - Foot
-- App Launcher - Rofi
-- Display Manager - Ly
 - Packages Manager - Pacman
 - Memory Compression - ZRAM
 - Window Manager - Hyprland
 - Disk Encryption - LUKS
+- Display Manager - Ly
 - Notify Daemon - Mako
+- App Launcher - Rofi
+- Terminal - Foot
+- Shell - Zsh
+
+
+
+
+
+
 - Bootloader - REFInd
 
 
