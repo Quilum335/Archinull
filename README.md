@@ -1,4 +1,4 @@
-# Quefire Build 
+# Quefire Build 
 
 - Shell - Zsh
 - Terminal - Foot
