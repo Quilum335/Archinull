@@ -1,6 +1,7 @@
 # Quefire Build 
 
 Shell - Zsh
+
 Terminal - Foot
 App Launcher - Rofi
 Display Manager - Ly
