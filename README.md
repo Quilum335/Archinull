@@ -1,9 +1,6 @@
 # Quefire Build 
-@font-face {
-    font-family: 'NerdFont';
-    src: url('path_to_font/NerdFont.ttf') format('truetype');
-}
 
+![Blue Fire](https://cdn-icons-png.flaticon.com/512/182/182314.png)
 
 - Shell - Zsh
 - Terminal - Foot
