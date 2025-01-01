@@ -1,6 +1,4 @@
-# Quefire Build 
-
-![Blue Fire](https://cdn-icons-png.flaticon.com/512/182/182314.png)
+# Archinull Build 
 
 - Shell - Zsh
 - Terminal - Foot
