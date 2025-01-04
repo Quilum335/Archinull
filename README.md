@@ -1,4 +1,4 @@
-# Archinull Build 
+# Bluequick Build
 
 - Shell - Zsh
 - Terminal - Foot
